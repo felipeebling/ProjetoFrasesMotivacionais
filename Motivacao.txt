@@ -2,3 +2,5 @@ Aprender git é investir no futuro.
 Controle a versão evita grandes dores de cabeça.
 
 Versionar é preciso!
+
+Claude code
